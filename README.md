@@ -1,6 +1,6 @@
 # GlassClassification
 
-In this project, we classify the glasses with respect to the types listed in item 11 below.  
+In this project, we classify the glasses with respect to the types listed in item 11 below using the KNN algorithm.  
 
 Glass identification data contains 10 attributes (features) including an id number. The glass type (label) ranges from 1 to 7.
 
