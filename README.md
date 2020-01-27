@@ -3,7 +3,6 @@
 In this project, we classify the glasses with respect to the types listed in item 11 below.  
 
 Glass identification data contains 10 attributes (features) including an id number. The glass type (label) ranges from 1 to 7.
-Content
 
 Attribute Information:
 
