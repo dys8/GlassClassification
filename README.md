@@ -30,7 +30,9 @@ Type of glass: (class attribute) -- 1 building_windows_float_processed -- 2 buil
 
 Acknowledgements
 
-https://archive.ics.uci.edu/ml/datasets/Glass+Identification Source:
+https://archive.ics.uci.edu/ml/datasets/Glass+Identification 
+
+Source:
 
 Creator: B. German Central Research Establishment Home Office Forensic Science Service Aldermaston, Reading, Berkshire RG7 4PN
 
